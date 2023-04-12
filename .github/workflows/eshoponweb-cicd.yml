@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-az400-eshoponweb-Tryxus
   LOCATION: westeurope
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
-  SUBSCRIPTION-ID: ca7610f2-d3ce-4e7f-b8a3-e0cc969af953
+  SUBSCRIPTION-ID: ca7610f2-d3ce-4e7f-b8a3-e0cc969af953 
   WEBAPP-NAME: az400-webapp-eShopOnWeb
 
 
